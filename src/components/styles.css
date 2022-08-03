@@ -1,0 +1,148 @@
+.primary{
+    
+    padding: 0 16px;
+    display: flex;
+    justify-content: flex-start;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition: all 0.314s;
+    white-space: nowrap;
+    color: #fff;
+    background-color: transparent;
+    border: none; 
+    text-transform: uppercase;
+}
+.buton{
+    background: #4d4c4c;
+ color: #fff;
+ font-size: 16px;
+   min-width: 112px;
+    height: 36px;
+    border-radius: 2px;
+    line-height: 36px;
+    margin: 0 4px;
+    margin-left: 170px;
+
+    padding: 0 8px;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+   
+    
+}
+.Logo{
+    display: flex;
+    width: 15%;
+    padding:16;
+    margin:16px;
+}
+.navlola{
+
+   background-color: #000 ;
+   display: flex;
+
+  
+    
+      
+}
+.navtheniya{
+    
+    background-color: #141414;
+    align-items: center;
+    justify-content: flex-start;
+    display: flex;
+       margin: 10;
+      
+      
+       
+}
+.main_titles{
+    padding: 0 16px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    text-transform: capitalize;
+    top: -11px;
+    right: 8px;
+}
+.promotion{
+    background-color: #333;
+    height: 35px;
+    line-height: 35px;
+    padding: 0 8px;
+    color: #F2EB8F;
+    border-radius: 2px;
+    text-transform: uppercase;
+    margin: 0 10px;
+}
+.social_icons{
+    justify-content: center;
+    align-items: center;
+    -webkit-box-align: center;
+}
+.icon{
+    background-image: url(https://cdn-plat.apidigi.com/plat/prd/Img/partners/1129/socials.png);
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-size: 100% auto;
+    margin: 0 6px;
+   
+}
+iconin{
+    background-image: url(https://cdn-plat.apidigi.com/plat/prd/Img/partners/1129/socials.png);
+   
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-size: 100% auto;
+    margin: 0 6px;
+}
+.facebook {
+    background-position: 0 0;
+    background-image: url(https://cdn-plat.apidigi.com/plat/prd/Img/partners/1129/socials.png);
+   
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-size: 100% auto;
+    margin: 0 6px;
+}
+
+.insta {
+    background-position: 0 64px;
+    background-image: url(https://cdn-plat.apidigi.com/plat/prd/Img/partners/1129/socials.png);
+   
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-size: 100% auto;
+    margin: 0 6px;
+}
+.youtube {
+    background-position: 0 -64px;
+    background-image: url(https://cdn-plat.apidigi.com/plat/prd/Img/partners/1129/socials.png);
+   
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-size: 100% auto;
+    margin: 0 6px;
+}
+.flexx{
+    height: 60px;
+    display: flex;
+    align-items:center;
+    justify-content:center;}
+    .time{
+        color: #b3b3b3;
+      margin: 5px;
+        font-family: "Roboto", sans-serif;
+        font-size: 12px;
+        text-transform: capitalize;
+    }
